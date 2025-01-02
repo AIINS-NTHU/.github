@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to the Ambient Intelligence for Immersive Networked Systems Lab</h1>
 <h3 align="center">How To</h3>
-<div align="center"> <a href="#materials"> Materials </a> | <a href="#llm"> LLM </a> | <a href="#project-aria"> Project Aria </a> </div>
+<div align="center"> <a href="#Tools"> Materials </a> | <a href="#llm"> LLM </a> | <a href="#project-aria"> Project Aria </a> </div>
 
-<h2>Materials</h2>
+<h2>Tools</h2>
 <ul>
-  <li><a href="https://github.com/AIINS-NTHU/OrientationMaterials/blob/main/zotero/README.md"> Zotero </a></li>
+  <li><a href="https://github.com/AIINS-NTHU/Tools-Orientation/blob/main/zotero/README.md"> Zotero </a></li>
 </ul>
 
 <h2>LLM</h2>
