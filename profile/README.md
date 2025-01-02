@@ -4,14 +4,14 @@
 
 <h2>Materials</h2>
 <ul>
-  <li><a href="../OrientationMaterials/blob/main/zotero/README.md#zotero"> Zotero </a></li>
+  <li><a href="https://github.com/AIINS-NTHU/OrientationMaterials/blob/main/zotero/README.md"> Zotero </a></li>
 </ul>
 
 <h2>LLM</h2>
 <ul>
-  <li><a href="../LLM-Orientation/blob/main/minicpm/README.md#how-to-install-minicpm-v26_int4-and-connect-to-you-own-laptop-camera"> MiniCPM-V 2.6 </a></li>
+  <li><a href="https://github.com/AIINS-NTHU/LLM-Orientation/blob/main/minicpm/README.md"> MiniCPM-V 2.6 </a></li>
 </ul>
 <h2>Project Aria</h2>
 <ul>
-  <li><a href="../Project-Aria-Orientation/blob/main/README.md#getting-started-with-project-aria-data-utilities-official-manual"> Project Aria Datasets </a></li>
+  <li><a href="https://github.com/AIINS-NTHU/Project-Aria-Orientation/blob/main/README.md"> Project Aria Datasets </a></li>
 </ul>
