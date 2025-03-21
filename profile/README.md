@@ -11,6 +11,9 @@
 <ul>
   <li><a href="https://github.com/AIINS-NTHU/LLM-Orientation/blob/main/minicpm/README.md"> MiniCPM-V 2.6 </a></li>
 </ul>
+<ul>
+  <li><a href="https://github.com/AIINS-NTHU/LLM-Orientation/blob/main/HuggingFace/README.md"> Hugging Face </a></li>
+</ul>
 <h2>Aria</h2>
 <ul>
   <li><a href="https://github.com/AIINS-NTHU/Project-Aria-Orientation/blob/main/README.md"> Datasets </a></li>
