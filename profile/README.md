@@ -18,3 +18,13 @@
 <ul>
   <li><a href="https://github.com/AIINS-NTHU/Project-Aria-Orientation/blob/main/README.md"> Datasets </a></li>
 </ul>
+
+
+
+<h2>misc.</h2>
+<ul>
+  <li>
+    <a href="https://github.com/AIINS-NTHU/Tools-Orientation/blob/main/admins/sudoers.md"> admins
+  </li>
+</ul>
+
